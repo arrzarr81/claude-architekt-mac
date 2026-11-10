@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-architekt-mac",
+  "owner": {
+    "name": "arrzarr81"
+  },
+  "metadata": {
+    "description": "Plugin architekt dla macOS: skany dokumentacji → DXF → IFC → wizualizacje w Blenderze",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "architekt",
+      "source": "./plugins/architekt",
+      "description": "Skany dokumentacji budynku → DXF → model IFC → wizualizacje w Blenderze (macOS). Polecenia po polsku.",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ]
+}
