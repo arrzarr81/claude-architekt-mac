@@ -1,6 +1,6 @@
 ---
 name: przygotuj-komputer
-description: Przygotowuje Maca do pracy z pluginem architekt — sam instaluje (bez hasła administratora) Pythona 3.12 przez uv, biblioteki (ezdxf, ifcopenshell, shapely, matplotlib, opencv, pymupdf) i Blendera, sprawdza GPU (Metal) i zapisuje ścieżki w ~/.architekt/config.json. Używaj, gdy użytkownik mówi „przygotuj komputer”, „zainstaluj”, „nie działa Blender / Python”, albo gdy innemu skillowi brakuje config.json.
+description: Przygotowuje Maca do pracy z pluginem architekt — sam instaluje (bez hasła administratora) Pythona 3.12 przez uv, biblioteki (ezdxf, ifcopenshell, shapely, matplotlib, opencv, pymupdf) i Blendera, sprawdza GPU (Metal) i zapisuje ścieżki w ~/.architekt/config.json. Używaj, gdy użytkownik mówi „przygotuj komputer”, „zainstaluj”, „nie działa Blender / Python”, albo gdy innemu skillowi brakuje config.json. / EN — Prepares the Mac for the architekt plugin — installs (no admin password) Python 3.12 via uv, the libraries (ezdxf, ifcopenshell, shapely, matplotlib, opencv, pymupdf) and Blender, checks the GPU (Metal) and saves paths to ~/.architekt/config.json. Use when the user says “set up the computer”, “install”, “Blender / Python does not work”, or when another skill is missing config.json.
 ---
 
 # Przygotowanie komputera (macOS)
